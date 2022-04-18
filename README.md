@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @kondurihemant
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA Full stack 
 - 📫 How to reach me basaltrock3@gmail.com
 
 <!---
