@@ -4,9 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bDN0d3Q4c2ZkNzg2b2RjcjBvNTI2dGVqM2F1ejN3bThscG1vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12J5G6M56nS82W88/giphy.gif" width="100%">
-</p>
 
 <table width="100%">
   <tr valign="top">
@@ -80,9 +77,6 @@ I'm a passionate and creative developer with a love for building innovative solu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kondurihemant&theme=dracula&hide_border=true&area=true&line=b238b2" alt="kondurihemant's Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bDN0d3Q4c2ZkNzg2b2RjcjBvNTI2dGVqM2F1ejN3bThscG1vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12J5G6M56nS82W88/giphy.gif" width="100%">
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=0:4A00E0,100:2d004d&height=200&section=footer" />
