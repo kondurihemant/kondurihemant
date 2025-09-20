@@ -1,14 +1,18 @@
 <p align="center">
   <a href="https://github.com/kondurihemant">
-    <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradient=0:2d004d,100:4A00E0&height=250&section=header&text=Konduri%20Hemant&fontSize=80&fontColor=ffffff" />
+    <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=0:2d004d,100:4A00E0&height=250&section=header&text=Konduri%20Hemant&fontSize=80&fontColor=ffffff" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bDN0d3Q4c2ZkNzg2b2RjcjBvNTI2dGVqM2F1ejN3bThscG1vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12J5G6M56nS82W88/giphy.gif" width="100%">
 </p>
 
 <table width="100%">
   <tr valign="top">
     <td width="65%">
 
-### 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=false&width=435&lines=👨‍💻+About+Me" alt="About Me typing animation" />
 
 I'm a passionate and creative developer with a love for building innovative solutions. I thrive on challenges and am constantly exploring the ever-evolving landscape of technology, from **High Performance Computing** to the decentralized world of **Web3** and **DApps**. I'm currently diving deep into **DevOps** to master the art of seamless software delivery.
 
@@ -20,7 +24,8 @@ I'm a passionate and creative developer with a love for building innovative solu
 
 <br>
 
-### 🌐 Connect with Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=false&width=435&lines=🌐+Connect+with+Me" alt="Connect with Me typing animation" />
+
 <p align="left">
   <a href="https://www.linkedin.com/in/s-s-r-subramanya-hemant-konduri-126a73214/?originalSubdomain=in" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/Hemant_Konduri?t=5idcv-nBi7VjegYxocj2EQ&s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -29,7 +34,8 @@ I'm a passionate and creative developer with a love for building innovative solu
 
 <br>
 
-### 🛠️ My Tech Stack
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=false&width=435&lines=🛠️+My+Tech+Stack" alt="My Tech Stack typing animation" />
+
 <p align="left">
   <strong>Languages:</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
@@ -61,9 +67,16 @@ I'm a passionate and creative developer with a love for building innovative solu
     </td>
     <td width="35%">
 
-### 📊 GitHub Stats
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=false&width=435&lines=📊+GitHub+Stats" alt="GitHub Stats typing animation" />
+
 ![Konduri Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondurihemant&show_icons=true&theme=dracula&rank_icon=github&border_radius=10)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kondurihemant&layout=compact&theme=vision-friendly-dark&border_radius=10)
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=false&width=435&lines=🏆+My+Trophies" alt="My Trophies typing animation" />
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=kondurihemant&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
 
     </td>
   </tr>
@@ -74,10 +87,14 @@ I'm a passionate and creative developer with a love for building innovative solu
 </p>
 
 <p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bDN0d3Q4c2ZkNzg2b2RjcjBvNTI2dGVqM2F1ejN3bThscG1vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12J5G6M56nS82W88/giphy.gif" width="100%">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/kondurihemant/kondurihemant/output/github-contribution-grid-snake.svg" alt="snake" />
   <img src="https://raw.githubusercontent.com/kondurihemant/kondurihemant/output/github-contribution-grid-snake-ocean.svg" alt="snake ocean" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&gradient=0:4A00E0,100:2d004d&height=200&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&gradient=0:4A00E0,100:2d004d&height=200&section=footer" />
 </p>
