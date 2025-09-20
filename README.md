@@ -72,12 +72,6 @@ I'm a passionate and creative developer with a love for building innovative solu
 ![Konduri Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondurihemant&show_icons=true&theme=dracula&rank_icon=github&border_radius=10)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kondurihemant&layout=compact&theme=vision-friendly-dark&border_radius=10)
 
-<br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A020F0&center=false&width=435&lines=🏆+My+Trophies" alt="My Trophies typing animation" />
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=kondurihemant&theme=dracula&column=3&margin-w=15&margin-h=15&no-frame=true)
-
     </td>
   </tr>
 </table>
@@ -88,11 +82,6 @@ I'm a passionate and creative developer with a love for building innovative solu
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z0bDN0d3Q4c2ZkNzg2b2RjcjBvNTI2dGVqM2F1ejN3bThscG1vbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ie12J5G6M56nS82W88/giphy.gif" width="100%">
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/kondurihemant/kondurihemant/output/github-contribution-grid-snake.svg" alt="snake" />
-  <img src="https://raw.githubusercontent.com/kondurihemant/kondurihemant/output/github-contribution-grid-snake-ocean.svg" alt="snake ocean" />
 </p>
 
 <p align="center">
