@@ -4,13 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://open.spotify.com/user/[YOUR_SPOTIFY_USER_ID]">
-    <img src="https://spotify-readme-theta.vercel.app/api?scan=true&theme=dark" alt="Now Playing" />
-  </a>
-</p>
-
-
 <table width="100%">
   <tr valign="top">
     <td width="65%">
@@ -72,10 +65,6 @@ I'm a passionate and creative developer with a love for building innovative solu
 ![Konduri Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kondurihemant&show_icons=true&theme=dracula&rank_icon=github&border_radius=10)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kondurihemant&layout=compact&theme=vision-friendly-dark&border_radius=10)
 
-<br>
-
-### 💻 WakaTime Stats
-![Konduri Hemant's WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kondurihemant&theme=dracula&layout=compact)
     </td>
   </tr>
 </table>
